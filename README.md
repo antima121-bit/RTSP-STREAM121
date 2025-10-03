@@ -7,8 +7,9 @@ This project allows users to view RTSP streams in their web browser.
 The application is built with a React frontend and a Django backend.
 
 ### Screenshot
-![Stream View](./assets/rtsp_ss1.png)
-![Stream View](./assets/rtsp_ss2.png)
+<img width="1257" height="694" alt="github 1" src="https://github.com/user-attachments/assets/1af5dbb7-f69a-41f8-b7f1-caa0492cd7f1" />
+<img width="1177" height="649" alt="github 2" src="https://github.com/user-attachments/assets/6891f7e1-7063-4774-9509-5c25e3913928" />
+
 
 
 **Frontend:**
